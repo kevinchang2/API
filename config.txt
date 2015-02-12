@@ -1,0 +1,6 @@
+[Data]
+url = 10.90.1.188
+domain = kevin.chang
+user = user1
+password = 123456
+device_id = kevinchang.User.Portal
